@@ -11,24 +11,21 @@ This PHP web server application is designed to create a staff directory for the 
 - Create a page that allows users to update staff member information
 
 ### Main page
-<img src="Photos/main_page.jpg" alt="Front" width="625" height="350"><br/>
-<img src="Photos/avd_example.jpg" alt="Front" width="305" height="250"><br/>
+<img src="web/Web1.png" width="400" height="300"><br/>
 
 ### List all Staff
-<img src="Photos/list_all_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="web/list2.png"><br/>
 
 ### Add Staff
-<img src="Photos/add_staff.jpg" alt="Front" width="625" height="350"><br/>
-<img src="Photos/add_staff_successful.jpg" alt="Front" width="625" height="350"><br/>
+<img src="web/Add.png" width="400" height="300"><br/>
 
 ### Search for Staff
-<img src="Photos/search_staff.jpg" alt="Front" width="625" height="350"><br/>
-<img src="Photos/search_results_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="web/Search1.png" width="400" height="300"><br/>
+<img src="web/Search.png" width="400" height="300"><br/>
 
 ### Update Staff details
-<img src="Photos/update_staff.jpg" alt="Front" width="625" height="350"><br/>
-<img src="Photos/edit_staff.jpg" alt="Front" width="625" height="350"><br/>
-<img src="Photos/edit_staff_successful.jpg" alt="Front" width="625" height="350"><br/>
+<img src="web/Update1.png" width="400" height="300"><br/>
+<img src="web/Update2.png" width="300" height="200"><br/>
 
 ### MySQL database
-<img src="Photos/database.jpg" alt="Front" width="625" height="350"><br/>
+<img src="web/List.png" width="400" height="300"><br/>
