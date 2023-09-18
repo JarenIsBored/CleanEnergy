@@ -25,7 +25,7 @@ This PHP web server application is designed to create a staff directory for the 
 
 ### Update Staff details
 <img src="web/Update1.png" width="400" height="300"><br/>
-<img src="web/Update2.png" width="400" height="300"><br/>
+<img src="web/Update2.png" width="400" height="200"><br/>
 
 ### MySQL database
 <img src="web/List.png" width="400" height="300"><br/>
